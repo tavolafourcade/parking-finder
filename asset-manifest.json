@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/parking-finder/static/css/main.bdbf9854.chunk.css",
+    "main.js": "/parking-finder/static/js/main.18b7d0cf.chunk.js",
+    "main.js.map": "/parking-finder/static/js/main.18b7d0cf.chunk.js.map",
+    "runtime-main.js": "/parking-finder/static/js/runtime-main.abe04f44.js",
+    "runtime-main.js.map": "/parking-finder/static/js/runtime-main.abe04f44.js.map",
+    "static/js/2.7b8fb094.chunk.js": "/parking-finder/static/js/2.7b8fb094.chunk.js",
+    "static/js/2.7b8fb094.chunk.js.map": "/parking-finder/static/js/2.7b8fb094.chunk.js.map",
+    "static/js/3.18d3248c.chunk.js": "/parking-finder/static/js/3.18d3248c.chunk.js",
+    "static/js/3.18d3248c.chunk.js.map": "/parking-finder/static/js/3.18d3248c.chunk.js.map",
+    "index.html": "/parking-finder/index.html",
+    "static/css/main.bdbf9854.chunk.css.map": "/parking-finder/static/css/main.bdbf9854.chunk.css.map",
+    "static/js/2.7b8fb094.chunk.js.LICENSE.txt": "/parking-finder/static/js/2.7b8fb094.chunk.js.LICENSE.txt",
+    "static/media/footer.7f664804.svg": "/parking-finder/static/media/footer.7f664804.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abe04f44.js",
+    "static/js/2.7b8fb094.chunk.js",
+    "static/css/main.bdbf9854.chunk.css",
+    "static/js/main.18b7d0cf.chunk.js"
+  ]
+}
